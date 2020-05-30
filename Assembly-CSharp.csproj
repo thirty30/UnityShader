@@ -69,6 +69,7 @@
     <None Include="Assets\Shader\2BaseDiffuse\TDiffusePerPixel.shader" />
     <None Include="Assets\Shader\6LightAndShadow\TShadow.shader" />
     <None Include="Assets\Shader\8RTT\TMirror.shader" />
+    <None Include="Assets\Shader\9Animation\TISAnimation.shader" />
     <None Include="Assets\Shader\5Transparent\TTransparentBlend.shader" />
     <None Include="Assets\Shader\4BumpMapping\TBumpMappingTangentSpace.shader" />
     <None Include="Assets\Shader\8RTT\TGlass.shader" />
@@ -76,6 +77,7 @@
     <None Include="Assets\Shader\7Cubemap\TRefraction.shader" />
     <None Include="Assets\Shader\5Transparent\TTransparentCutOff.shader" />
     <None Include="Assets\Shader\4BumpMapping\TBumpMappingWorldSpace.shader" />
+    <None Include="Assets\Shader\9Animation\T2DWater.shader" />
     <None Include="Assets\Shader\2BaseDiffuse\TDiffusePerVertex.shader" />
     <None Include="Assets\Shader\1BaseShader\BaseShader.shader" />
     <None Include="Assets\Shader\7Cubemap\TReflection.shader" />
