@@ -63,9 +63,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Shader\10AfterEffect\TAfterEffect.cs" />
+    <Compile Include="Assets\Shader\10AfterEffect\TBloom.cs" />
+    <Compile Include="Assets\Shader\10AfterEffect\TGaussianBlur.cs" />
+    <Compile Include="Assets\Shader\10AfterEffect\TMotionBlur.cs" />
+    <Compile Include="Assets\Shader\10AfterEffect\TPostEffectsBase.cs" />
     <Compile Include="Assets\Shader\7Cubemap\TRender2CubeMap.cs" />
+    <None Include="Assets\Shader\10AfterEffect\TMotionBlur.shader" />
     <None Include="Assets\Shader\7Cubemap\TFresnelReflection.shader" />
     <None Include="Assets\Shader\4BumpMapping\TMaskTexture.shader" />
+    <None Include="Assets\Shader\10AfterEffect\TGaussianBlur.shader" />
     <None Include="Assets\Shader\2BaseDiffuse\TDiffusePerPixel.shader" />
     <None Include="Assets\Shader\6LightAndShadow\TShadow.shader" />
     <None Include="Assets\Shader\8RTT\TMirror.shader" />
@@ -76,6 +83,8 @@
     <None Include="Assets\Shader\3Diffuse\TDiffuse.shader" />
     <None Include="Assets\Shader\7Cubemap\TRefraction.shader" />
     <None Include="Assets\Shader\5Transparent\TTransparentCutOff.shader" />
+    <None Include="Assets\Shader\10AfterEffect\TBloom.shader" />
+    <None Include="Assets\Shader\10AfterEffect\TBSCShader.shader" />
     <None Include="Assets\Shader\4BumpMapping\TBumpMappingWorldSpace.shader" />
     <None Include="Assets\Shader\9Animation\T2DWater.shader" />
     <None Include="Assets\Shader\2BaseDiffuse\TDiffusePerVertex.shader" />
