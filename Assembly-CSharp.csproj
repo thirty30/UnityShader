@@ -86,6 +86,7 @@
     <None Include="Assets\Shader\10AfterEffect\TBloom.shader" />
     <None Include="Assets\Shader\10AfterEffect\TBSCShader.shader" />
     <None Include="Assets\Shader\4BumpMapping\TBumpMappingWorldSpace.shader" />
+    <None Include="Assets\Shader\11Cartoon\TCartoon.shader" />
     <None Include="Assets\Shader\9Animation\T2DWater.shader" />
     <None Include="Assets\Shader\2BaseDiffuse\TDiffusePerVertex.shader" />
     <None Include="Assets\Shader\1BaseShader\BaseShader.shader" />
